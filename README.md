@@ -1,4 +1,4 @@
-# UX-Design-for-Mobile
+# UX Design for Mobile
 This is the code repository for [UX Design for Mobile](https://www.packtpub.com/application-development/ux-design-mobile?utm_source=github&utm_medium=repository&utm_campaign=9781787283428), published by [Packt](https://www.packtpub.com/). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 This book will show you a working process to quickly iterate product ideas with low and high fidelity prototypes, based on professional tools from different software brands. You will be able to quickly test your ideas early in the process with the most adequate prototyping approach. You will understand the pros and cons of each approach, when you should use each of them, and what you can learn in each step of the testing process.
