@@ -20,13 +20,13 @@ Following is the software list:
 ## Related Products
  
   
-* [Microsoft HoloLens By Example](https://www.packtpub.com/web-development/microsoft-hololens-example?utm_source=github&utm_medium=repository&utm_campaign=9781787126268)
+* [Google SketchUp for Game Design: Beginner's Guide](https://www.packtpub.com/game-development/google-sketchup-game-design-beginners-guide?utm_source=github&utm_medium=repository&utm_campaign=9781849691345)
   
   
-* [HoloLens Beginner’s Guide](https://www.packtpub.com/hardware-and-creative/hololens-beginner%E2%80%99s-guide?utm_source=github&utm_medium=repository&utm_campaign=9781786464729)
+* [UX Design for Web Developers [Video]](https://www.packtpub.com/web-development/ux-design-web-developers-video?utm_source=github&utm_medium=repository&utm_campaign=9781784392130)
   
   
-* [HoloLens Blueprints](https://www.packtpub.com/application-development/hololens-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781787281943)
+* [Practical UX Design](https://www.packtpub.com/web-development/practical-ux-design?utm_source=github&utm_medium=repository&utm_campaign=9781785880896)
   
  
 
