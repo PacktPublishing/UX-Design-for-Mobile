@@ -4,7 +4,7 @@ This is the code repository for [UX Design for Mobile](https://www.packtpub.com/
 This book will show you a working process to quickly iterate product ideas with low and high fidelity prototypes, based on professional tools from different software brands. You will be able to quickly test your ideas early in the process with the most adequate prototyping approach. You will understand the pros and cons of each approach, when you should use each of them, and what you can learn in each step of the testing process.
 ### Instructions and Navigations
 All of the codes are organized as per the chapters, each folder has all the images and asset files related to that.                   
-For example: UX-Design-for-Mobile\Chapter02\Ch2
+For example: UX-Design-for-Mobile\Chapter02
 
 Following is the software list:
 
